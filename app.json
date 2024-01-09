@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-test",
-    "slug": "expo-test",
+    "name": "Morse Code",
+    "slug": "morse-code",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
